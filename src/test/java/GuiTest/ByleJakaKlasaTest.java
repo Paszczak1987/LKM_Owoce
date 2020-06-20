@@ -5,10 +5,10 @@ import java.util.List;
 
 import org.junit.After;
 import org.junit.Before;
-import org.junit.*;
+import org.junit.Test;
 
 
-public class Test {
+public class ByleJakaKlasaTest {
 	
 	List<String> lista = new ArrayList<String>();
 	
@@ -36,9 +36,3 @@ public class Test {
 }
 
 
-//@Test
-//public void testPrintList() {
-//    String expected = "ONE";
-//    ArrayList<String> actual = alp.printList(myList);
-//    assertEquals("not the correct list", expected, actual);
-//}
